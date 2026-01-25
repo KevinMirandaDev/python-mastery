@@ -36,4 +36,4 @@ I apply **Deep Work** sessions 6 days a week, documenting each technical challen
 - **Brand:** Ambitious
 - **Main Profile:** [KevinMirandaDev](https://github.com/KevinMirandaDev)
 
-**Soli Deo Gloria**# python-mastery
+**Soli Deo Gloria**
