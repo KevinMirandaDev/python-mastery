@@ -9,6 +9,7 @@ Welcome to my open-learning repository. Here, I document every step of my journe
 
 ### 🟢 Phase 1: Foundations & Logic
 *Status: [In Progress]*
+- [01-00] [What is Python]
 - [01-01] [Variables & Dynamic Typing](link-al-archivo)
 - [01-02] [Advanced Control Flow](link-al-archivo)
 - [01-03] [Functions & Scope](link-al-archivo)
