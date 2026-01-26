@@ -85,3 +85,5 @@ Example:
 user_text = input("Write your text right here: ")
 ```
 
+
+These are the Python basics. Knowing this, we can continue learning
