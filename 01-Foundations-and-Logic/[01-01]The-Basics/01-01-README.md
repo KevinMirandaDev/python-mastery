@@ -16,7 +16,7 @@ Example:
 ```python
 greetings = "Hello World!"
 ```
-###Data Types
+## Data Types
 Python has several built-in data types. Some of the most common ones are:
 
 ### String (str)
@@ -32,47 +32,56 @@ Example:
 ```python
 number = 2
 ```
+
 ### Float (float)
 Represents decimal numbers.
 Example:
 ```python
 pi = 3.14
 ```
-Boolean (bool)
+
+### Boolean (bool)
 Represents logical values: True or False.
 Example:
-
+```python
 is_active = True
-None (NoneType)
+```
+
+### None (NoneType)
 Represents the absence of a value.
 It is often used as a placeholder to assign a value later.
 Example:
-
+```python
 result = None
-Comments
+```
+## Comments
 Comments are used to explain code and make it easier to understand.
 In Python, comments start with the # symbol.
 
 Example:
+```python
 # This is a comment
-print()
+```
+## print()
 The print() function is used to display output in the console.
 
 Example:
 print("Hello, world!")
-f-strings
+## f-strings
 F-strings allow you to insert variables directly into strings.
 They make string formatting easier and more readable.
 
 Example:
+```python
 name = "Kevin"
 print(f"Hello world, my name is {name}")
-input()
+```
+## input()
 The input() function allows you to receive input from the user.
 The value returned by input() is always a string.
 
 Example:
+```python
 user_text = input("Write your text right here: ")
+```
 
-Example:
-user_text = input("Write your text right here: ")
