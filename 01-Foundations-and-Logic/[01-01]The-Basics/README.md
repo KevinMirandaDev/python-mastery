@@ -86,4 +86,7 @@ user_text = input("Write your text right here: ")
 ```
 
 
-These are the Python basics. Knowing this, we can continue learning
+These are the Python basics. Knowing this, we can continue our journey.
+
+"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." 
+-Joshua 1:9
