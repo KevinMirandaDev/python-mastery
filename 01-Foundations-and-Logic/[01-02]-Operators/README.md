@@ -14,45 +14,53 @@ Arithmetic operators help us do basic math with numbers in Python.
 
 The + operator adds two values.
 
+```python
 3 + 2  # result: 5
+```
 
 ### Subtraction
 
 The - operator subtracts one number from another.
 
+```python
 5 - 3  # result: 2
+```
 
 ### Multiplication
 
 The * operator multiplies numbers.
 
+```python
 4 * 2  # result: 8
+```
 
 ### Division
 
 The / operator divides numbers and returns a float value.
-
+```python
 10 / 2  # result: 5.0
-
+```
 ### Floor division
 
-The ´´´python //´´´ operator divides but keeps only the integer part of the result.
-
+The // operator divides but keeps only the integer part of the result.
+```python
 10 // 3  # result: 3
+```
 
 ### Modulo
 
 The % operator returns the remainder of a division.
 
-´´´python
+```python
 10 % 3  # result: 1
-´´´
+```
 
 ### Power
 
 The ** operator raises a number to a power.
-
+```python
 2 ** 3  # result: 8
+```
 
 ## Logical operators
 
@@ -63,20 +71,25 @@ They are very important for decision making in programs.
 
 The and operator is True only when both values are True.
 
+```python
 True and False  # result: False
-
+```
 ### OR
 
 The or operator is True when at least one value is True.
-
+```python
 True or False  # result: True
+```
 
 ### NOT
 
 The not operator changes a value to the opposite boolean.
-
+```python
 not True  # result: False
+```
 
+
+```python
 ### Personal note
 
 I am learning Python with patience and consistency.
@@ -85,7 +98,7 @@ Sometimes the basics feel simple, but I believe strong fundamentals build strong
 This repository is my way to document the process, stay accountable, and show real progress over time.
 
 Small steps, every day. Soli Deo Gloria.
-
+```
 
 “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.”
 — Colossians 3:23
