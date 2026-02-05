@@ -92,4 +92,10 @@ my_dict = {
 
 ```
 
+```python
+### Personal Note
+That's it. Whoever reads this, hope you learnt something from this repo :)
+Small steps, every day. Soli Deo Gloria.
+
 ”Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.” - Galatians 6:9
+```
