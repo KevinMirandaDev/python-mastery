@@ -92,8 +92,9 @@ my_dict = {
 
 ```
 
-```python
+
 ### Personal Note
+```python
 That's it. Whoever reads this, hope you learnt something from this repo :)
 Small steps, every day. Soli Deo Gloria.
 
