@@ -8,22 +8,26 @@ Welcome to my open-learning repository. Here, I document every step of my journe
 ## 🗺 Roadmap & Index
 
 ### 🟢 Phase 1: Foundations & Logic
-*Status: [In Progress]*
+*Status: [Finished]*
 - [01-00] [What is Python](https://github.com/KevinMirandaDev/python-mastery/tree/0fdd1550baa0f5ba2cb914d03bed154fa4b8d518/01-Foundations-and-Logic/%5B01-00%5DWhat-is-Python)
-- [01-01] [Python Basic Commands](lhttps://github.com/KevinMirandaDev/python-mastery/tree/eeebf196e2e111d91ac558a23ca1a8b4a152dba5/01-Foundations-and-Logic/%5B01-01%5DPython-Basic-Commands)
+- [01-01] [Python Basic Commands](https://github.com/KevinMirandaDev/python-mastery/tree/e99a8d89a31f01c28f8ef27bb26c41f31632af35/01-Foundations-and-Logic/%5B01-01%5DPython-Basic-Commands)
 - [01-02] [Operators](https://github.com/KevinMirandaDev/python-mastery/tree/eeebf196e2e111d91ac558a23ca1a8b4a152dba5/01-Foundations-and-Logic/%5B01-02%5D-Operators)
 - [01-03] [Data Structures Overview](https://github.com/KevinMirandaDev/python-mastery/tree/eeebf196e2e111d91ac558a23ca1a8b4a152dba5/01-Foundations-and-Logic/%5B01-03%5D-Data-Structures-Overview)
 
-### 🟡 Phase 2: Data Structures & Algorithms
-*Status: [Next]*
-- [02-01] [Deep Dive into Lists & Dicts](link-al-archivo)
-- [02-02] [Complexity & Big O Notation](link-al-archivo)
+### 🟢 Phase 2: Data Structures Deep Dive
+*Status: [In Progress]*
+- [02-01] [Lists](link-al-archivo)
+- [02-02] [Tuples](link-al-archivo)
+- [02-03] [Sets](link-al-archivo)
+- [02-04] [Dictionaries](link-al-archivo)
+- [02-05] [Mini-project](link-al-archivo)
 
-### 🟠 Phase 3: Object-Oriented Programming (OOP)
+### 🟡 Phase 3: Control Flow
+*Status: [Next]*
 - [03-01] [Classes, Inheritance & Polymorphism](link-al-archivo)
 - [03-02] [SOLID Principles in Python](link-al-archivo)
 
-### 🔴 Phase 4: Professional Backend (FastAPI/Django)
+### 🔴🟠Phase 4: Professional Backend (FastAPI/Django)
 - [04-01] [Asynchronous Programming (asyncio)](link-al-archivo)
 - [04-02] [REST API Design & Documentation](link-al-archivo)
 - [04-03] [Database Integration with SQLAlchemy](link-al-archivo)
