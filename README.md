@@ -9,7 +9,7 @@ Welcome to my open-learning repository. Here, I document every step of my journe
 
 ### 🟢 Phase 1: Foundations & Logic
 *Status: [In Progress]*
-- [01-00] [What is Python]
+- [01-00] [What is Python](https://github.com/KevinMirandaDev/python-mastery/tree/0fdd1550baa0f5ba2cb914d03bed154fa4b8d518/01-Foundations-and-Logic/%5B01-00%5DWhat-is-Python)
 - [01-01] [Variables & Dynamic Typing](link-al-archivo)
 - [01-02] [Advanced Control Flow](link-al-archivo)
 - [01-03] [Functions & Scope](link-al-archivo)
