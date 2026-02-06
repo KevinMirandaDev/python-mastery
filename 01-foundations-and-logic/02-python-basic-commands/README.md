@@ -1,4 +1,4 @@
-# [01-01] The Basics
+# Python Basic Commands
 
 This section covers the fundamental concepts of Python programming.
 These basics are essential to understand how Python works and how programs are structured.
