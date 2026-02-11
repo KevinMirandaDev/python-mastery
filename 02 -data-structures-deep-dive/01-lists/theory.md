@@ -90,7 +90,7 @@ Without lists, many real programs would be impossible or very messy.
 So mastering lists is not a small step.
 It is part of building strong foundations.
 
-
+---
 ``` python
 Personal reflection
 In the past, I learned things quickly and moved on fast.
