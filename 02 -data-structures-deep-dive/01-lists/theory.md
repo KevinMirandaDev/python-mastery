@@ -1,8 +1,9 @@
 # Lists
+---
 If you're reading this, thank you for following my progress.  
 The previous stage focused on mastering data structures.  
 Now it's time to control how programs make decisions.
----
+
 In Stage 01 I saw what lists are in a general way.
 Now the goal is different:
 Not only to know lists exist, but to truly understand how they work and how to use them in real code.
