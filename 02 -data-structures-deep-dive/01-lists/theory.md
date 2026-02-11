@@ -2,8 +2,7 @@
 If you're reading this, thank you for following my progress.  
 The previous stage focused on mastering data structures.  
 Now it's time to control how programs make decisions.
-
-Lists in Python — Theory
+---
 In Stage 01 I saw what lists are in a general way.
 Now the goal is different:
 Not only to know lists exist, but to truly understand how they work and how to use them in real code.
@@ -91,8 +90,8 @@ So mastering lists is not a small step.
 It is part of building strong foundations.
 
 ---
+## Personal Reflection
 ``` python
-Personal reflection
 In the past, I learned things quickly and moved on fast.
 Now I am trying to learn with patience and depth.
 Understanding lists deeply may look simple,
